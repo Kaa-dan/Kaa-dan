@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am a Software Engineer with a strong focus on JavaScript and TypeScript, specializing in backend frameworks like Node.js, Express, and NestJS, as well as frontend development with React and Next.js. Driven by a deep passion for technology, I thrive on building innovative and efficient solutions that make an impact.
 
 📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com.
