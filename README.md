@@ -1,4 +1,4 @@
-I am a Software Engineer with a strong focus on Golang,JavaScript and TypeScript, specializing in backend frameworks like Node.js, Express, NestJS and Gin, in frontend frameworks like react js and next js. Driven by a deep passion for technology, I thrive on building innovative and efficient solutions that make an impact..
+I am a Software Engineer with a strong focus on Golang,JavaScript and TypeScript, specializing in backend frameworks like Node.js, Express, NestJS and Gin. Driven by a deep passion for technology, I thrive on building innovative and efficient solutions that make an impact..
 
 📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com.
 
