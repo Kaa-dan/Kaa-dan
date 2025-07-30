@@ -1,5 +1,4 @@
-I am a Software Engineer with a strong focus on Golang,JavaScript and TypeScript, specializing in backend frameworks like Node.js, Express, NestJS and Gin. Driven by a deep passion for technology, I thrive on building innovative and efficient solutions that make an impact..
-
+I am a Fullstack Engineer with expertise in Golang, JavaScript and TypeScript, specializing in modern web development. On the frontend, I work with React and Next.js to create dynamic user interfaces, while on the backend I leverage Node.js, Express, NestJS and Gin to build robust server-side solutions. Driven by a deep passion for technology, I thrive on building innovative and efficient full-stack applications that make an impact.
 📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com.
 
 
