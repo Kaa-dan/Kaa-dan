@@ -1,4 +1,8 @@
-I am a Fullstack Engineer with expertise in Golang, JavaScript and TypeScript, specializing in modern web development. On the frontend, I work with React and Next.js to create dynamic user interfaces, while on the backend I leverage Node.js, Express, NestJS and Gin to build robust server-side solutions. Driven by a deep passion for technology, I thrive on building innovative and efficient full-stack applications that make an impact.
+Software Engineer specializing in backend and systems engineering, working primarily with Golang and Rust. Focused on building high-performance, concurrent, and distributed systems with strong emphasis on efficiency and reliability.
+
+I care about what happens under the hood — system design, performance, and the unseen layers that make software scale.
+
+📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com.
 📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com.
 
 
