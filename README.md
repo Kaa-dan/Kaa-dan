@@ -1,8 +1,6 @@
-Software Engineer specializing in backend and systems engineering, working primarily with Golang and Rust. Focused on building high-performance, concurrent, and distributed systems with strong emphasis on efficiency and reliability.
-
+Software Engineer specializing in building secure, scalable, and distributed applications using Rust and TypeScript. Focused on designing high-performance systems with strong emphasis on efficiency, reliability, and resilience.
 I care about what happens under the hood — system design, performance, and the unseen layers that make software scale.
-
-📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com.
+📧 Contact Details: For professional inquiries, collaborations, or opportunities, feel free to reach out at nithinraj.dev@gmail.com
 
 
 
